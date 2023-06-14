@@ -36,7 +36,6 @@
                                         <thead>
                                         <tr>
                                             <th>User ID</th>
-                                            <th>Class ID</th>
                                             <th>Role ID</th>
                                             <th>Rodzaj aktywności</th>
                                             <th>Ocena</th>
